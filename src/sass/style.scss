@@ -1,0 +1,22 @@
+@import 'libs/bootstrap-reboot.min';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kenia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web&display=swap');
+@import 'base/variables';
+@import 'base/mixins';
+* {
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Karla', sans-serif; */
+    /* font-family: 'Karla', sans-serif; */
+    /* font-family: 'Istok Web', sans-serif; */
+    /* font-family: 'Istok Web', sans-serif; */
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+.container {
+    width: 1180px;
+    margin: 0 auto;
+}
